@@ -62,13 +62,17 @@ Learning_Numpy/
 
 ## 🎓 Learning Sources
 
-### FreeCodeCamp
+### FreeCodeCamp.org
 
-The first part of the repository follows a **NumPy tutorial from FreeCodeCamp**, covering core concepts such as arrays, indexing, mathematical operations, linear algebra, statistics, reshaping, masking, and 3D arrays.
+The first part of the repository follows a **NumPy tutorial from FreeCodeCamp.org on YouTube**, covering core concepts such as arrays, indexing, mathematical operations, linear algebra, statistics, reshaping, masking, and 3D arrays.
+
+I learned and practiced these concepts from the **[FreeCodeCamp.org YouTube tutorial](https://youtu.be/QUT1VHiLmmI)**.
 
 ### BroCode
 
-The second part contains additional **NumPy practice and examples from BroCode**, covering topics such as arithmetic, broadcasting, filtering, multidimensional arrays, slicing, aggregate functions, and random numbers.
+The second part contains additional **NumPy practice and examples learned from BroCode on YouTube**, covering topics such as arithmetic, broadcasting, filtering, multidimensional arrays, slicing, aggregate functions, and random numbers.
+
+I learned and practiced these concepts from the **[BroCode YouTube tutorial](https://youtu.be/VXU4LSAQDSc)**.
 
 ---
 
